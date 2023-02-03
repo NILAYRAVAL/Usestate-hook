@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color: rgb(20, 19, 19);
+  min-height: 100vh;
+  color: rgb(230, 235, 238);
+}
+
+h1{
+  margin: 0;
+
+}
+.header{
+  background-color: rgba(5, 53, 62, 0.929);
+  padding: 8px;
+}
+
+.main {
+  margin-top: 15%;
+}
+
+.heading{
+  font-size: 80px;
+}
+
+.btn{
+  background-color: blue;
+  padding: 7px;
+  color: white;
+  margin: 5px;
+  
+}
